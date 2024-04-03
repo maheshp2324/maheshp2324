@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maheshp2324
 - 👀 I’m interested in Java 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java and web development 
 - 📫 How to reach me - patilmahesh0423@gmail.com
 
 <!---
